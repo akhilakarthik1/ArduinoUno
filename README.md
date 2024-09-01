@@ -2,5 +2,4 @@
 "# ArduinoUno" 
 "# ArduinoUno" 
 "# ArduinoUno" 
-"# ArduinoUno" 
-"# Arduino-LDR-sensor" 
+"# ArduinoUno"
